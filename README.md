@@ -4,6 +4,7 @@ add-on used when flying online together on VATSIM.
 
 ## Aircraft included
 
+- Airbus A319 (IAE) by Steven Beeckman (Reworked a @jamlen CSL)
 - Boeing 767-300 winglets by Steven Beeckman
 
 ## Installation instructions
