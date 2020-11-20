@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModelMatchRuleSet>
     <ModelMatchRule CallsignPrefix="VCP" TypeCode="A319" ModelName="FLAi_FAIB_A319IAE_VCP-Alpaca" />
+    <ModelMatchRule CallsignPrefix="VCP" TypeCode="B738" ModelName="FLAi_FAIB_B738_VCP-Alpaca" />
     <ModelMatchRule CallsignPrefix="VCP" TypeCode="B763" ModelName="FLAi_B763_VCP-Alpaca" />
     <ModelMatchRule CallsignPrefix="VCP" TypeCode="B762" ModelName="FLAi_B763_VCP-Alpaca" />
     <ModelMatchRule CallsignPrefix="VCP" TypeCode="B764" ModelName="FLAi_B763_VCP-Alpaca" />
