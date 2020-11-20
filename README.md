@@ -9,6 +9,8 @@ add-on used when flying online together on VATSIM.
 - Boeing 767-300 winglets by Steven Beeckman
 
 ## Installation instructions
+Get the latest release from [GitHub](https://github.com/flightdeck2sim/FLAI/releases).
+
 You need to locate your FLAi path. You can find it by opening the FLAi 
 Operations Center.
 
